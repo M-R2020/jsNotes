@@ -1,0 +1,38 @@
+h1{
+    color: lightgreen;
+    text-align: center;
+}
+h3{
+    color:Blue;
+}
+p{
+    color: red;
+}
+
+.twoTruths{
+    border: thick solid black;
+    background-color: grey;
+    border-radius: 1em;
+    margin: 5px;
+    padding: 2px;
+}
+
+.theSame{
+    background-color: lightgrey;
+    border: medium dotted darkgray;
+    border-radius: 1em;
+    margin: 2px;
+    text-align:center;
+    padding: 5px;  
+
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
